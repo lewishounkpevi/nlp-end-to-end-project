@@ -1,0 +1,13 @@
+numpy==1.26.4
+spacy==3.7.5
+transformers==4.43.3
+torch==2.4.0
+thinc==8.2.2
+mlflow==2.0.1
+fastapi==0.95.2
+uvicorn[standard]
+requests==2.31.0
+cloudpickle==2.2.1
+streamlit==1.37
+gunicorn
+supervisor  # Ajout de Supervisor pour gérer les processus

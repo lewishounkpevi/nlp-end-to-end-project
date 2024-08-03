@@ -1,0 +1,11 @@
+mlruns/
+.nlp-end-to-end-project/
+nlp_model/
+nlp_model2/
+nlp_model_20240803093900/
+old/
+mlf/
+models/
+src/__pycache__/
+
+
