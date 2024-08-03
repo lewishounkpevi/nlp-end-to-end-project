@@ -14,6 +14,15 @@ A exectuer avec un terminal
 make install
 ```
 
+## Lancer le mdèle et l'enregister
+```bash
+mkdir models
+```
+
+```bash
+python src/nlp.py
+```
+
 ## Lancer en local
 
 ### Avec Fastapi sur le port 8000
